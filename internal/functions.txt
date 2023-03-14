@@ -1,0 +1,19 @@
+go-reloaded/
+    main.go
+
+    internal/
+        manage.py
+        openfile.go
+        savefile.go
+        split.go
+        clear.go
+        stringify.go
+        articlify.go
+        spacify.go
+
+        functions/
+            bin2dec.go
+            hex2dec.go
+            up.go
+            low.go
+            cap.go

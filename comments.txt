@@ -1,0 +1,15 @@
+1. Read terminal arguments.
+2. Accept only ".txt" files, otherwise throw "Wrong file type error".
+4. Handle newlines (\n).
+5. Handle function application to the number of words: [5 words] (cap, 6) -> process only 5 words.
+8. Check if the word is the correct type, i.e. hex, bin type etc.
+6. Separate functions into different files.
+10. Articles: "a a a a a" -> "an an an an a"
+9. Rewrite all space rules for data types.
+3. Handle apostrophes: 'Don't', let's, Alice's etc.
+7. Handle quotations properly.
+
+11. Use log.Fatalln() instead of os.Exit()
+12. Slice of structs instead of 3 slices
+13. (cap, <number>) -> number > [int]?
+14. Check for negative numbers in (cap, -10)
